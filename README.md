@@ -2,7 +2,7 @@
 Built a web application using HTML,CSS and Javascript which helps in visualising the standard sorting algorithms<br>
 namely Bubble Sort,Selection Sort,Insertion Sort,Merge Sort and Quick Sort.<br><br>
 
-Sorting Algorithm    Time complexity    Space Complexity   <br>
+Sorting Algorithm &nbsp   Time complexity &nbsp   Space Complexity &nbsp  <br>
 1. Selection Sort        O(n^2)              O(1)          <br>
 2. Bubble Sort           O(n^2)              O(1)          <br>
 3. Insertion Sort        O(n^2)              O(1)          <br>
